@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="en" ng-app="myApp">
 <head>
 	<title>Controle</title>
 	<meta charset="UTF-8">
@@ -8,11 +8,12 @@
 	<link rel="shortcut icon" href="assets/imagens/icon.jpg">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="assets/bootstrap/css/bootstrap.min.css">
-	<link rel="stylesheet" type="text/css" href="assets/css/style.css">
+	<link rel="stylesheet" type="text/css" href="assets/jquery-ui/themes/smoothness/jquery-ui.css">
 	<link rel="stylesheet" type="text/css" href="assets/fontello/css/fontello.css">
-	<link rel="stylesheet" type="text/css" href="assets/fontello/css/animation.css">	
+	<link rel="stylesheet" type="text/css" href="assets/fontello/css/animation.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/style.css">	
 </head>
-<body>
+<body ng-controller="myAppController">
 	<div class="main">
 		<ul>
 			<li>
@@ -31,9 +32,8 @@
 			</li>
 			<li>
 				<div class="commands light">
-					<div class="options">
-						<button type="text" class="btn btn-default btn-left"><i class="icon-left-open"></i></button>
-						<button type="text" class="btn btn-default btn-right"><i class="icon-right-open"></i></button>
+					<div class="sliders-light">
+						<div ui-slider min="0" max="100" ng-model="lightModel"></div>
 					</div>
 				</div>
 			</li>
@@ -56,5 +56,10 @@
 			<div>Arduíno - 2014</div>
 		</footer>
 	</div>
+	<script type="text/javascript" src="assets/js/jquery/jquery.min.js"></script>
+	<script type="text/javascript" src="assets/jquery-ui/ui/minified/jquery-ui.min.js"></script>
+	<script type="text/javascript" src="assets/js/angular/angular.min.js"></script>
+	<script type="text/javascript" src="assets/slider-bars/src/slider.js"></script>
+	<script type="text/javascript" src="assets/js/angular/angular-sliders.js"></script>
 </body>
 </html>

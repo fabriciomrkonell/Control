@@ -19,6 +19,24 @@
       "src": "fontawesome"
     },
     {
+      "uid": "2d14369ed7f129e779eaa30195368218",
+      "css": "light-down",
+      "code": 59400,
+      "src": "entypo"
+    },
+    {
+      "uid": "f8e120c48c070f8afd2d072651b4fb9f",
+      "css": "light-up",
+      "code": 59401,
+      "src": "entypo"
+    },
+    {
+      "uid": "f6fa10cb3ffec7becb60834f50bb0182",
+      "css": "adjust",
+      "code": 59402,
+      "src": "entypo"
+    },
+    {
       "uid": "cbfc8f7ba004d60f5134b30a27e87829",
       "css": "rss",
       "code": 59394,

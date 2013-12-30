@@ -1,9 +1,12 @@
 
 .icon-cog:before { content: '\e800'; } /* '' */
+.icon-search:before { content: '\e803'; } /* '' */
+.icon-light-down:before { content: '\e808'; } /* '' */
+.icon-light-up:before { content: '\e809'; } /* '' */
+.icon-adjust:before { content: '\e80a'; } /* '' */
 .icon-megaphone:before { content: '\e801'; } /* '' */
-.icon-rss:before { content: '\e802'; } /* '' */
 .icon-down-open:before { content: '\e804'; } /* '' */
 .icon-left-open:before { content: '\e805'; } /* '' */
 .icon-right-open:before { content: '\e806'; } /* '' */
 .icon-up-open:before { content: '\e807'; } /* '' */
-.icon-search:before { content: '\e803'; } /* '' */
+.icon-rss:before { content: '\e802'; } /* '' */
