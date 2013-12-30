@@ -17,7 +17,7 @@
 	<div class="main">
 		<ul>
 			<li>
-				<div class="commands">
+				<div class="commands buttons">
 					<div class="up">
 						<button type="text" class="btn btn-default"><i class="icon-up-open"></i></button>
 					</div>
@@ -32,8 +32,9 @@
 			</li>
 			<li>
 				<div class="commands light">
+					<div class="icon-sliders"><i ng-class="iconSliders"></i></div>
 					<div class="sliders-light">
-						<div ui-slider min="0" max="100" ng-model="lightModel"></div>
+						<div ui-slider ng-change="atualizarSliders();" min="0" max="100" ng-model="lightModel"></div>
 					</div>
 				</div>
 			</li>
