@@ -1,10 +1,10 @@
 @font-face {
-  font-family: 'fontello';
-  src: url('../font/fontello.eot?64776358');
-  src: url('../font/fontello.eot?64776358#iefix') format('embedded-opentype'),
-       url('../font/fontello.woff?64776358') format('woff'),
-       url('../font/fontello.ttf?64776358') format('truetype'),
-       url('../font/fontello.svg?64776358#fontello') format('svg');
+  font-family: 'sear';
+  src: url('../font/sear.eot?74047164');
+  src: url('../font/sear.eot?74047164#iefix') format('embedded-opentype'),
+       url('../font/sear.woff?74047164') format('woff'),
+       url('../font/sear.ttf?74047164') format('truetype'),
+       url('../font/sear.svg?74047164#sear') format('svg');
   font-weight: normal;
   font-style: normal;
 }
@@ -13,14 +13,14 @@
 /*
 @media screen and (-webkit-min-device-pixel-ratio:0) {
   @font-face {
-    font-family: 'fontello';
-    src: url('../font/fontello.svg?64776358#fontello') format('svg');
+    font-family: 'sear';
+    src: url('../font/sear.svg?74047164#sear') format('svg');
   }
 }
 */
  
  [class^="icon-"]:before, [class*=" icon-"]:before {
-  font-family: "fontello";
+  font-family: "sear";
   font-style: normal;
   font-weight: normal;
   speak: none;

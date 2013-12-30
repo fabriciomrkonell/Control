@@ -3,8 +3,8 @@
 <svg xmlns="http://www.w3.org/2000/svg">
 <metadata>Copyright (C) 2013 by original authors @ fontello.com</metadata>
 <defs>
-<font id="fontello" horiz-adv-x="1000" >
-<font-face font-family="fontello" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<font id="sear" horiz-adv-x="1000" >
+<font-face font-family="sear" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
 <missing-glyph horiz-adv-x="1000" />
 <glyph glyph-name="cog" unicode="&#xe800;" d="m571 350q0 59-41 101t-101 42t-101-42t-42-101t42-101t101-42t101 42t41 101z m286 61v-124q0-7-4-13t-11-7l-104-16q-10-30-21-51q19-27 59-77q6-6 6-13t-5-13q-15-21-55-61t-53-39q-7 0-14 5l-77 60q-25-13-51-21q-9-76-16-104q-4-16-20-16h-124q-8 0-14 5t-6 12l-16 103q-27 9-50 21l-79-60q-6-5-14-5q-8 0-14 6q-70 64-92 94q-4 5-4 13q0 6 5 12q8 12 28 37t30 40q-15 28-23 55l-102 15q-7 1-11 7t-5 13v124q0 7 5 13t10 7l104 16q8 25 22 51q-23 32-60 77q-6 7-6 14q0 5 5 12q15 20 55 60t53 40q7 0 15-5l77-60q24 13 50 21q9 76 17 104q3 15 20 15h124q7 0 13-4t7-12l15-103q28-9 50-21l80 60q5 5 13 5q7 0 14-5q72-67 92-95q4-5 4-13q0-6-4-12q-9-12-29-38t-30-39q14-28 23-55l102-15q7-1 12-7t4-13z" horiz-adv-x="857.1" />
 <glyph glyph-name="megaphone" unicode="&#xe801;" d="m929 493q29 0 50-21t21-51t-21-50t-50-21v-214q0-29-22-50t-50-22q-233 194-453 212q-32-10-51-36t-17-57t22-51q-11-19-13-37t4-32t18-31t27-28t35-28q-17-32-63-46t-94-7t-73 31q-4 13-17 49t-18 53t-12 50t-9 56t2 55t12 62h-68q-36 0-63 26t-26 63v107q0 37 26 63t63 26h268q243 0 500 215q29 0 50-22t22-50v-214z m-72-337v532q-220-168-428-191v-151q210-23 428-190z" horiz-adv-x="1000" />
